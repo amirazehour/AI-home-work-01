@@ -21,5 +21,5 @@ while i<9 :
 
 if (i==9 and n!=15)  :
     print("you lost")
-if n==15:
+if n==15 and i== 9:
     print("you won")
